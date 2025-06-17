@@ -1,113 +1,102 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Arieswaran",
+    "label": "Full Stack Game Developer",
+    "picture": "../img/profile.png",
+    "email": "arieswaran@gmail.com",
+    "phone": "+917010045738",
+    "website": "https://arieswaran.github.io",
+    "summary": "I am a Full Stack Game Developer with three years of experience. I am a pro at Unity and nodejs and know my way around AWS and GCloud. When I'm not busy automating everything in sight, I love to indulge in my love for video games. If you need a hand with anything tech-related, I am your guy - just don't challenge me to a game of League of Legends, or you might regret it!",
+    "location": { "address": "", "postalCode": "628721", "city": "Vanaramutti", "countryCode": "India", "region": "Tamilnadu" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Arieswaran", "url": "http://github.com/arieswaran" },
+      { "network": "linkedin", "username": "Arieswaran", "url": "http://linkedin.com/in/arieswaran" },
+      { "network": "twitter", "username": "Arieswaran", "url": "https://twitter.com/ArieswaranxIU" },
+      { "network": "instagram", "username": "Arieswaran", "url": "https://www.instagram.com/arieswaranxiu/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "AI" },
+    { "name": "Coding" },
+    { "name": "Video Games" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C","C++", "C#", "Python", "NodeJs" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Unity", "Git/GitHub", "AWS", "Gloud","Linux" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "VIT University, vellore, India",
+      "area": "Information Technology(2016-2020)",
+      "studyType": "B.Tech.",
+      "startDate": "2016-08-01",
+      "endDate": "2020-05-01",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Octathorpe Web Consultants",
+      "position": "Full Stack Game Developer",
+      "website": "hitwicket.com",
+      "startDate": "2019-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Senior Game Developer for Hitwicket Superstars",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Improved app stability: Reduced crashes and ANRs to improve app performance and ensure a better user experience.",
+        "Multiplayer development: Contributed to the development of multiplayer features using websockets, adding value to the game and enhancing user engagement.",
+        "Automation and efficiency: Developed and implemented tools such as Discord bots to streamline workflows and improve team productivity, resulting in greater efficiency and time savings.",
+        "Feature development and team leadership: Led the development and implementation of multiple features, coordinating with team members and ensuring successful delivery of each project. Demonstrated strong teamwork and leadership skills in managing projects and collaborating with colleagues to achieve goals."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Project-Xenomouse",
+      "website": "https://github.com/Arieswaran/Project-Xenomouse",
+      "position": "Unity Game Developer",
+      "startDate": "2023-02-13",
+      "endDate": "2023-02-20",
+      "summary": "Brackey's 2023 game jam submission",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Developed the basic architecture and implemented core functionalities and logic for the game",
+        "Coordinated with team members to ensure smooth collaboration and resolved issues that arose during the project",
+        "Ranked 65th out of 734 submissions in the Brackey's game jam competition."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "IU-tron",
+      "website": "https://github.com/Arieswaran/IU-tron",
+      "position": "Solo Project",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "AI powered bug reporting discord bot",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Discord bot that automatically creates bug reports",
+        "Uses open AI API to generate bug reports",
+        "Creates a clickup task for the bug report and also checks for duplicates"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "IUverse",
+      "website": "https://github.com/Arieswaran/IUverse",
+      "position": "Solo Project",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Simple picture puzzle game made in Unity featuring pictures of IU",
+      "highlights": [
+        "Picture switching puzzle game",
+        "It has a gallery feature and unlimited levels",
+        "Increasing difficulty as the levels progress"
+      ]
     }
   ],
   "references": [
